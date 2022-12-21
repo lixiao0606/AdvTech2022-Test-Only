@@ -1,0 +1,1 @@
+python tools/convert2fbx.py --input=C:\LocalGit\bev\ROMP-master\runs\test_video_result_bev_ji1/00000000__2_0.1.npz --output=C:\LocalGit\bev\ROMP-master\convert_fbx/BEV_results/dance1.fbx --gender=female
